@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "verbatimModuleSyntax": false,
+    "moduleDetection": "auto",
+    "noUncheckedSideEffectImports": false,
+    "ignoreDeprecations": "6.0"
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts"]
+}
