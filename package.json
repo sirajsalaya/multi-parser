@@ -1,6 +1,6 @@
 {
   "name": "multipartbody",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Multer-like Express multipart parser that stores files in req.body for nested form-data payloads.",
   "keywords": [
     "multipart",
